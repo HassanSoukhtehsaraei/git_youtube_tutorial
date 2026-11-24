@@ -1,4 +1,5 @@
 hello
+we are learning conflict handling!
 python programming!
 Agentic AI:)
 <<<<<<< ours
